@@ -17,5 +17,5 @@ which provides an easy to use interface to interact with the tokenizer, parser
 and compiler:
 
 ```bash
-$ deno install -Af https://raw.github.com/whistle-lang/whistle/master/cli/whistle.ts
+deno install -A -n whistle https://deno.land/x/whistle/cli.ts
 ```
